@@ -2,7 +2,7 @@
 
 - ✨ Quero trabalhar com front-end
 - 🌱 Eu estou estudando HTML, CSS e JavaScript
-- 😄 Pronames: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/MariaClaraRodrigues">
