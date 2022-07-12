@@ -1,4 +1,4 @@
-# Oiee, eu sou a Maria Clara ♍
+# Hi, It's me Maria Clara ♍
 
 - ✨ Quero trabalhar com front-end
 - 🌱 Estou estudando HTML, CSS e JavaScript
