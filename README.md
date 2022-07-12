@@ -1,8 +1,8 @@
-### Oiee, eu sou a Maria Clara ♍
+# Oiee, eu sou a Maria Clara ♍
 
 - ✨ Quero trabalhar com front-end
-- 🌱 Eu estou estudando HTML, CSS e JavaScript
-- 😄 Pronomes: Ela/Dela
+- 🌱 Estou estudando HTML, CSS e JavaScript
+- 😄 Pronomes: Ela/Dela(She/Her)
 
 <div align="center">
   <a href="https://github.com/MariaClaraRodrigues">
